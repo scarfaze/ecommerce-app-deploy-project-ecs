@@ -1,6 +1,6 @@
 {
-    "taskRoleArn": "arn:aws:iam::007350209865:role/ecs-project-cluster-ECSTaskExecutionRole-GQ20J37G817L",
-    "executionRoleArn": "arn:aws:iam::007350209865:role/ecs-project-cluster-ECSTaskExecutionRole-GQ20J37G817L",
+    "taskRoleArn": "arn:aws:iam::102371207675:role/ecs-project-iam-roles-ECSTaskExecutionRole-IDD6VVY98B46",
+    "executionRoleArn": "arn:aws:iam::102371207675:role/ecs-project-iam-roles-ECSTaskExecutionRole-IDD6VVY98B46",
     "containerDefinitions": [
         {
             "environment": [
